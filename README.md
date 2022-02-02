@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://lightjam.github.io/simple-QR-scanner/)
+- Live Site URL:(https://kouamherve.github.io/Frontent-Mentor-QR-code-component/)
 
 
 ### Built with
@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Herve Kouam](https://www.your-site.com)
+- Website - [Herve Kouam](https://kouamherve.github.io/cv/)
 - Frontend Mentor - [@kouamherve](https://www.frontendmentor.io/profile/kouamherve)
 - Twitter - [@kouamherve](https://www.twitter.com/kouamherve)
 
